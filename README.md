@@ -1,1 +1,1 @@
-# numero---secreto
+# numero-secreto
